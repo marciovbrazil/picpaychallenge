@@ -1,4 +1,4 @@
-package com.picpay.picpaysimplificado.domain.repositories;
+package com.picpay.picpaysimplificado.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
